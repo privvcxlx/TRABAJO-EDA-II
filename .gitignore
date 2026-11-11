@@ -1,0 +1,10 @@
+*.exe
+*.out
+reservas
+generar
+*.o
+*.obj
+.vscode/
+.DS_Store
+Thumbs.db
+LEEME.txt
